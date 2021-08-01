@@ -2,7 +2,6 @@
 /* Author : Arjun Mehta */
 
 /* Include required header files. */
-#include "lab_png.h"
 #include <string.h>
 #include <arpa/inet.h>
 
